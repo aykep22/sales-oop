@@ -29,7 +29,7 @@
         </a>
 
         <a href="profile.php" class="nav-link text-secondary">
-            <span class="fw-bold fs-5">Welcome <?= ucfirst($_SESSION['username'])?></span>
+            <span class="fw-bold fs-5">Welcome to new branch <?= ucfirst($_SESSION['username'])?></span>
         </a>
 
         <!-- <div class="ms-auto me-3 navbar-nav"> -->
